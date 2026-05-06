@@ -55,11 +55,11 @@ Evaluate impact of discounts and subscriptions
 🛠️ Tech Stack
 
 
-🐍 Python (pandas, numpy)
+ Python (pandas, numpy)
 
-🗄️ PostgreSQL
+ PostgreSQL
 
-📊 Power BI
+Power BI
 
 
 
@@ -96,13 +96,13 @@ Evaluate impact of discounts and subscriptions
 💡 Business Recommendations
 
 
-🎯 Focus on top-performing categories
+Focus on top-performing categories
 
-💰 Apply targeted discount strategies
+Apply targeted discount strategies
 
-🔁 Strengthen customer retention programs
+Strengthen customer retention programs
 
-📦 Promote subscription-based models
+Promote subscription-based models
 
 
 
