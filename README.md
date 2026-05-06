@@ -77,12 +77,12 @@ Interactive dashboard built in Power BI to explore:
 ---
 ## 📁 Project Files
 
-- 📊 [Dashboard](dashboard/dashboard.pdf)  
-- 🖼️ [Dashboard Preview](dashboard/dashboard.png)  
-- 💻 [SQL Queries](sql/analysis.sql)  
-- 🐍 [Python Notebook](notebooks/analysis.ipynb)  
-- 📄 [Project Report](reports/report.pdf)  
-- 📁 [Dataset](data/dataset.csv)
+- 📊 [PowerBI Dashboard](PowerBI Dashboard/customer_behaviour_dashboard.pbix)  
+- 🖼️ [PowerPoint](PowerPoint PPT/Customer-Shopping-Behaviour-Analysis(1).pptx)  
+- 💻 [SQL Queries](SQL Queries/customer.sql)  
+- 🐍 [Python Notebook](jupyter notebook/project.ipynb)  
+- 📄 [Project Report](Report/CUSTOMER SHOPPING BEHAVIOUR ANALYSIS.pdf)  
+- 📁 [Dataset](data/customer_shopping_behaviour.csv)
 
 ---
 ## 🔹 Conclusion
