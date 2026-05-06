@@ -1,125 +1,81 @@
-# Customer_Behaviour_Analysis
+# Customer Behaviour Analysis
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into purchasing patterns, customer segmentation, and product performance. The goal is to support data-driven decision-making and improve business strategies.
 
-🔹 Objectives
+## 🔹 Objectives
 
+- Understand customer purchasing behavior  
+- Identify key revenue-driving factors  
+- Analyze customer segments and loyalty  
+- Evaluate the impact of discounts, subscriptions, and shipping  
+- Provide actionable business recommendations  
 
-Understand customer purchasing behavior
+---
 
-Identify key revenue-driving factors
+## 🔹 Dataset Summary
 
-Analyze customer segments and loyalty
+- Records: 3,900 transactions  
+- Features: 18 columns  
 
-Evaluate the impact of discounts, subscriptions, and shipping
+**Includes:**
+- Customer demographics (Age, Gender, Location, Subscription Status)  
+- Purchase details (Category, Amount, Season, Size, Color)  
+- Behavioral factors (Discount, Frequency, Review Rating, Shipping Type)  
 
-Provide actionable business recommendations
+---
 
+## 🎯 Objectives
 
+- Understand customer purchasing behavior  
+- Identify key revenue drivers  
+- Analyze customer segments and loyalty  
+- Evaluate impact of discounts and subscriptions  
 
+---
 
-🔹 Dataset Summary
+## 🛠️ Tech Stack
 
+- Python (pandas, numpy)  
+- PostgreSQL  
+- Power BI  
 
-Records: 3,900 transactions
+---
 
-Features: 18 columns
+## ⚙️ Workflow
 
-Includes:
+1. Data Cleaning & Feature Engineering (Python)  
+2. Business Analysis & Querying (SQL)  
+3. Dashboard & Visualization (Power BI)  
 
-Customer demographics (Age, Gender, Location, Subscription Status)
+---
 
-Purchase details (Category, Amount, Season, Size, Color)
+## 📈 Key Insights
 
-Behavioral factors (Discount, Frequency, Review Rating, Shipping Type)
+- High-performing categories drive major revenue  
+- Discounts influence specific product sales  
+- Loyal customers contribute significantly  
+- Subscribers show higher engagement  
 
+---
 
+## 💡 Business Recommendations
 
+- Focus on top-performing categories  
+- Apply targeted discount strategies  
+- Strengthen customer retention programs  
+- Promote subscription-based models  
 
+---
 
-🎯 Objectives
-
-
-Understand customer purchasing behavior
-
-Identify key revenue drivers
-
-Analyze customer segments and loyalty
-
-Evaluate impact of discounts and subscriptions
-
-
-
-
-
-🛠️ Tech Stack
-
-
- Python (pandas, numpy)
-
- PostgreSQL
-
-Power BI
-
-
-
-
-
-⚙️ Workflow
-
-
-1️⃣ Data Cleaning & Feature Engineering (Python)
-
-2️⃣ Business Analysis & Querying (SQL)
-
-3️⃣ Dashboard & Visualization (Power BI)
-
-
-
-
-
-📈 Key Insights
-
-
-📌 High-performing categories drive major revenue
-
-📌 Discounts influence specific product sales
-
-📌 Loyal customers contribute significantly
-
-📌 Subscribers show higher engagement
-
-
-
-
-
-💡 Business Recommendations
-
-
-Focus on top-performing categories
-
-Apply targeted discount strategies
-
-Strengthen customer retention programs
-
-Promote subscription-based models
-
-
-
-
-
-🔹 Dashboard
-
+## 🔹 Dashboard
 
 Interactive dashboard built in Power BI to explore:
-Sales performance
-Customer behavior
-Category trends
+- Sales performance  
+- Customer behavior  
+- Category trends  
 
+---
 
-
-
-🔹 Conclusion
-
+## 🔹 Conclusion
 
 This project provides meaningful insights into customer behavior and purchasing trends, enabling businesses to make informed, data-driven decisions to improve performance and customer engagement.
