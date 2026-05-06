@@ -15,6 +15,7 @@ Evaluate the impact of discounts, subscriptions, and shipping
 
 Provide actionable business recommendations
 
+
 🔹 Dataset Summary
 
 
@@ -31,6 +32,7 @@ Purchase details (Category, Amount, Season, Size, Color)
 Behavioral factors (Discount, Frequency, Review Rating, Shipping Type)
 
 
+
 🎯 Objectives
 
 
@@ -43,6 +45,7 @@ Analyze customer segments and loyalty
 Evaluate impact of discounts and subscriptions
 
 
+
 🛠️ Tech Stack
 
 
@@ -53,6 +56,7 @@ Evaluate impact of discounts and subscriptions
 📊 Power BI
 
 
+
 ⚙️ Workflow
 
 
@@ -61,6 +65,7 @@ Evaluate impact of discounts and subscriptions
 2️⃣ Business Analysis & Querying (SQL)
 
 3️⃣ Dashboard & Visualization (Power BI)
+
 
 
 📈 Key Insights
@@ -75,6 +80,7 @@ Evaluate impact of discounts and subscriptions
 📌 Subscribers show higher engagement
 
 
+
 💡 Business Recommendations
 
 
@@ -87,6 +93,7 @@ Evaluate impact of discounts and subscriptions
 📦 Promote subscription-based models
 
 
+
 🔹 Dashboard
 
 
@@ -94,6 +101,7 @@ Interactive dashboard built in Power BI to explore:
 Sales performance
 Customer behavior
 Category trends
+
 
 🔹 Conclusion
 
