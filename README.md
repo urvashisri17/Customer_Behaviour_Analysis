@@ -69,13 +69,22 @@ This project analyzes customer shopping behavior using transactional data to unc
 
 ## 🔹 Dashboard
 
-Interactive dashboard built in Power BI to explore:
+Interactive dashboard built in Power BI to explore: 
 - Sales performance  
 - Customer behavior  
 - Category trends  
 
 ---
+## 📁 Project Files
 
+- 📊 [Dashboard](dashboard/dashboard.pdf)  
+- 🖼️ [Dashboard Preview](dashboard/dashboard.png)  
+- 💻 [SQL Queries](sql/analysis.sql)  
+- 🐍 [Python Notebook](notebooks/analysis.ipynb)  
+- 📄 [Project Report](reports/report.pdf)  
+- 📁 [Dataset](data/dataset.csv)
+
+---
 ## 🔹 Conclusion
 
 This project provides meaningful insights into customer behavior and purchasing trends, enabling businesses to make informed, data-driven decisions to improve performance and customer engagement.
