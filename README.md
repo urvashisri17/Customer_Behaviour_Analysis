@@ -3,6 +3,8 @@
 This project analyzes customer shopping behavior using transactional data to uncover insights into purchasing patterns, customer segmentation, and product performance. The goal is to support data-driven decision-making and improve business strategies.
 
 🔹 Objectives
+
+
 Understand customer purchasing behavior
 Identify key revenue-driving factors
 Analyze customer segments and loyalty
